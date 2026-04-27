@@ -1,4 +1,5 @@
 SaaS Founder & Builder (MBA)
+
 I build software products and work with AI systems. Right now I'm focused on shipping my own SaaS and making sure it runs well and makes money.
 🚀 Current Projects
 
